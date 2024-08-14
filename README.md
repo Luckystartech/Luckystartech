@@ -1,6 +1,6 @@
 <h1 align='center'>Hi there 👋🏾 </h1>
 
-<p align='center'>I am a Software Engineer focused on Django🩷, Flutter💙 and Javascript💛. with Basic knowledge of UI/UX design and Digital Marketing</p>
+<p align='center'>I am a Software Engineer focused on Flutter💙, Javascript💛, Php💚 and Django🩷. with Basic knowledge of UI/UX design and Digital Marketing</p>
 
 
 <p align='center'>
