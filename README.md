@@ -1,6 +1,6 @@
 <h1 align='center'>Hi there 👋🏾 </h1>
 
-<p align='center'>I am a Software Engineer focused on Flutter💙, Javascript💛, Php💚 and Django🩷. with Basic knowledge of UI/UX design and Digital Marketing</p>
+<p align='center'>I am a Software Engineer focused on Flutter💙</p>
 
 
 <p align='center'>
@@ -10,7 +10,7 @@
 <a href="https://twitter.com/Lucky_Ekpebe">
   <img src="https://img.shields.io/badge/x-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/lucky-ekpebe/">
+<a href="https://www.linkedin.com/in/lucky-ekpebe-6317b1383">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
 </p>
